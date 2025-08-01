@@ -1,12 +1,12 @@
-# Vue Personal Website
+## Vue Personal Website
 
 A simple personal website built with Vue.js and deployed via GitHub Pages.
 
-## Features
+### Features
 - Home page with block listings
 - Basic navigation and routing
 
-## Known Issues
+### Known Issues
 🚧 **Under Construction** 🚧
 1. Visitor counter temporarily unavailable
 2. Blog comment/reply functionality not implemented yet

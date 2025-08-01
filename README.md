@@ -1,6 +1,6 @@
-# Vue Personal web
+# Vue Personal Website
 
-A simple personal blog built with Vue.js and deployed via GitHub Pages.
+A simple personal website built with Vue.js and deployed via GitHub Pages.
 
 ## Features
 - Home page with block listings

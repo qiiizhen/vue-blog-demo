@@ -1,4 +1,4 @@
-# Vue Personal Blog
+# Vue Personal web
 
 A simple personal blog built with Vue.js and deployed via GitHub Pages.
 
